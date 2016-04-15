@@ -4,6 +4,12 @@
       "intent": "HelloWorldIntent"
     },
     {
+      "intent": "StepOneIntent"
+    },
+    {
+      "intent": "Hazimemashite"
+    },
+    {
       "intent": "AMAZON.HelpIntent"
     }
   ]
